@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    border: 10px solid black;
+    width: 976px;
+    height: 976px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.squares {
+    height: 59px;
+    width: 59px;
+    border: 1px solid black;
+}
+
+.grey-squares {
+    height: 59px;
+    width: 59px;
+    border: 1px solid black;
+    background-color: grey;
+}
